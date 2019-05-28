@@ -7,3 +7,5 @@ Para leer los datos de la tabla de la ieee, esta se debe encontrar en la
 "carpeta actual" de Matlab, o debe ser indicada su ubicación completa 
 o relativa (su ruta o "path") en las variables "filename".
 El archivo de texto se llama 'ieee14cdf.txt' 
+
+La solución del examen está en el archivo Solucion1examen.m
