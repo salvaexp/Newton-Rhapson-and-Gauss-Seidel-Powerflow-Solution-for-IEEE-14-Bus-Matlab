@@ -9,3 +9,6 @@ o relativa (su ruta o "path") en las variables "filename".
 El archivo de texto se llama 'ieee14cdf.txt' 
 
 La solución del examen está en el archivo Solucion1examen.m
+
+Se sube ejercicio ejemplo de solución de un problema mediante el algoritmo 
+de Gauss Seidel, en el archivo GaussSeidel.m
